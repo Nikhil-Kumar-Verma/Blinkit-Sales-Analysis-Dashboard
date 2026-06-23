@@ -1,5 +1,5 @@
 # Blinkit Sales Analysis Dashboard | Power BI
-
+### Dashboard Link: https://app.powerbi.com/links/ysQgDn-OCd?ctid=59196d81-9bb3-47ad-a070-5825c18dbc3c&pbi_source=linkShare
 ## Project Overview
 
 This Power BI dashboard provides a comprehensive analysis of Blinkit's sales performance, product categories, and outlet operations. The dashboard enables stakeholders to monitor key business metrics, identify sales trends, evaluate outlet performance, and gain insights into customer purchasing patterns.
@@ -159,7 +159,7 @@ Blinkit-Sales-Analysis/
 
 ## Author
 
-**Your Name**
+**Nikhil Kumar Verma**
 
 LinkedIn: https://www.linkedin.com/in/-nikhilverma/
 
